@@ -3,7 +3,7 @@
   "source_file_id": "1UKpnseZ74_ZEPyLyh07agmG4uHzUEYzf",
   "imported_at": "2026-10-26",
   "note": "仅含公开字段；邮箱与封面文件不入库",
-  "count": 65,
+  "count": 64,
   "proposals": [
     {
       "speaker": "山市",
@@ -644,16 +644,6 @@
       "duration": "1小时00分钟00秒",
       "bio": "Joey 佟一舟，红帽公司开源布道者",
       "id": "20211206-d0897fa3"
-    },
-    {
-      "id": "20261026-cd99b127",
-      "speaker": "CFP测试员",
-      "submitted_at": "2026-10-26",
-      "title": "端到端验证：议题投稿链路",
-      "summary": "这是一次端到端验证投稿，用于确认私密库写入、公开数据更新与 git 提交三步都正常。",
-      "city": "北京",
-      "duration": "1 小时",
-      "bio": "测试用简介，验证公开。"
     }
   ]
 }
