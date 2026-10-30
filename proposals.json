@@ -3,7 +3,7 @@
   "source_file_id": "1UKpnseZ74_ZEPyLyh07agmG4uHzUEYzf",
   "imported_at": "2026-10-26",
   "note": "仅含公开字段；邮箱与封面文件不入库",
-  "count": 65,
+  "count": 66,
   "proposals": [
     {
       "speaker": "山市",
@@ -654,6 +654,16 @@
       "city": "北京",
       "duration": "1 小时",
       "bio": "作者～"
+    },
+    {
+      "id": "20261030-748ea372",
+      "speaker": "页面链路测试",
+      "submitted_at": "2026-10-30",
+      "title": "【测试】验证真实页面提交能否触发飞书通知，请忽略",
+      "summary": "这条从浏览器真实页面提交，走前端 JS 调用 signup-api 的完整路径，验证是否与直连 API 一致地触发飞书卡片。测试后清理。",
+      "city": "北京",
+      "duration": "30 分钟",
+      "bio": "测试用自我介绍。"
     }
   ]
 }
